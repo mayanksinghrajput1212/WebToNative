@@ -1,7 +1,6 @@
 # WebToNative – Android Assignment
 
 ## 📱 Project Overview
-WebToNative is a simple native Android application built as part of an Android Developer assignment for **Orufy Technologies Pvt. Ltd.**  
 The app allows users to open a website inside a WebView, maintain a local history of opened URLs, and upload that history to a dummy API.
 
 ---
@@ -120,16 +119,4 @@ com.example.webtonative
 ## 📸 Screenshots
 (Add screenshots of Home, WebView, and History screens here)
 
----
 
-## 👤 Author
-**Mayank Rajput**  
-Android Developer  
-
-- GitHub: https://github.com/your-username  
-- Portfolio / CV: (Drive link)
-
----
-
-## 📝 Notes
-This project was completed as a **2-day assignment task** and focuses on clean UI, proper navigation, data persistence, and API integration using native Android components.
